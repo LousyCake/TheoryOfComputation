@@ -9,6 +9,7 @@ The repository is organized into separate folders for each task, containing solv
 - **Task 1 & 2:** Solved answers to Task 1 & 2 questions.
 - **Task 3:** Solved answers to Task 3 questions.
 - **Task 4:** Solved answers to Task 4 questions.
+- **End Sem:** Solved answers to End Sem questions.
 
 ## Instructions
 
